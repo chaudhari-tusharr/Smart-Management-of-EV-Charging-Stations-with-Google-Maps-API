@@ -150,9 +150,7 @@ INSERT INTO `tbl_slot` (`id`,`slotname`,`address`,`area`,`city`,`state`,`country
  (8,'Bavdhan','NDA Pashan Rd, Ram Nagar, Bavdhan, Pune, Maharashtra 411021','Bavdhan','pune','Maharashtra','India'),
  (9,'Wakad','Datta Mandir Rd, Pratham Bunglow Society, Wakad, Pimpri-Chinchwad, Maharashtra 411057','wakad','pune','Maharashtra','India'),
  (10,'Hinjewadi','Hinjewadi Phase 1 Rd, Phase 1, Hinjewadi Rajiv Gandhi Infotech Park, Hinjawadi, Pimpri-Chinchwad, Maharashtra 411057','Hinjewadi','pune','Maharashtra','India'),
- (11,'Shahada','At Post: Shahada, 425409','Shahada','Nandurbar','Maharashtra','India'),
- (12,'Rudraksh','At Post Nandurbar','Near CB Park, Nandurbar','Nandurbar','Maharshtra','India'),
- (13,'Magarpatta','Magarpatta Pune','Pune','Pune','MH','India');
+ (11,'Magarpatta','Magarpatta Pune','Pune','Pune','MH','India');
 /*!40000 ALTER TABLE `tbl_slot` ENABLE KEYS */;
 
 
@@ -185,9 +183,9 @@ INSERT INTO `tbl_user` (`id`,`name`,`address`,`mobile_no`,`email`,`password`,`ve
  (3,'riddhi','mumbai','1234567890','xyz@gmail.com','111','122','yo','rk'),
  (4,'rk','19,abc','123qavcx','admin@gmail.com','Sndt02!!','11','aa','rk'),
  (5,'rk','19,abc','123qavcx','rk@gmail.com','Abc123..','11','aa','rk'),
- (6,'Tushar','Deccan','8411846704','tushar@gmail.com','Tushar@123','mh39j9069','ford figo','Tushar'),
- (7,'gaurav','Nashik','9146776653','gaurav@gmail.com','Gaurav@123','mh04k6930','Fortuner','Gaurav'),
- (8,'Hemant','Shivajinagar','9146557868','hemant@gmail.com','Hemant@123','mh39j9068','Alto','Hemant'),
+ (6,'Tushar','Deccan','8411845626','tushar@gmail.com','Tushar@123','mh12l5647','figo','Tushar'),
+ (7,'gaurav','Nashik','9147896645','gaurav@gmail.com','Gaurav@123','mh04k6930','Fortuner','Gaurav'),
+ (8,'Hemant','Shivajinagar','9146557868','hemant@gmail.com','Hemant@123','mh14j2356','Alto','Hemant'),
  (9,'Rohan','At Post: Nashik','9856789158','rohan@gmail.com','Rohan123','Mh15J6525','Venue','Rohan');
 /*!40000 ALTER TABLE `tbl_user` ENABLE KEYS */;
 
