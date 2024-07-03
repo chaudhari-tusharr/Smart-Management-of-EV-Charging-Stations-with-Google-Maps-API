@@ -188,8 +188,7 @@ INSERT INTO `tbl_user` (`id`,`name`,`address`,`mobile_no`,`email`,`password`,`ve
  (6,'Tushar','Deccan','8411846704','tushar@gmail.com','Tushar@123','mh39j9069','ford figo','Tushar'),
  (7,'gaurav','Nashik','9146776653','gaurav@gmail.com','Gaurav@123','mh04k6930','Fortuner','Gaurav'),
  (8,'Hemant','Shivajinagar','9146557868','hemant@gmail.com','Hemant@123','mh39j9068','Alto','Hemant'),
- (9,'Rohan','At Post: Nashik','9856789158','rohan@gmail.com','Rohan123','Mh15J6525','Venue','Rohan'),
- (10,'Harshal','Dkd','7588877271','harshal@gmail.com','Harshal@123','Mh39j9069','ford figo','harshal');
+ (9,'Rohan','At Post: Nashik','9856789158','rohan@gmail.com','Rohan123','Mh15J6525','Venue','Rohan');
 /*!40000 ALTER TABLE `tbl_user` ENABLE KEYS */;
 
 
